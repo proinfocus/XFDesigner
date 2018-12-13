@@ -5,7 +5,7 @@ Getting started with Live XAML designing tool for Xamarin.Forms
 *Steps for Server and Watcher:*
 1. Make sure you have .Net Core 2.0 or above SDK installed on your machine
 2. Download the **ServerWatcher.zip** and extract it to C:\ServerWatcher (or any location and follow along with that particular path)
-3. From command-line/terminal from your location ie., C:\ServerWatcher, run **dotnet BUILD**
+3. From command-line/terminal from your location ie., C:\ServerWatcher, run **BUILD**
 4. Once successfully done, you can run the server by running **SERVE** command.
 5. To start watching for file changes, go to the directory where you want the files to be watched.
 6. Run the watcher command by typing **C:\ServerWatcher\WATCH**, it will start watching for files in that folder and its sub-folders.
