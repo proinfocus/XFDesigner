@@ -17,8 +17,8 @@ Getting started with Live XAML designing tool for Xamarin.Forms
 
 *Steps to integrate Proinfocus XFDesigner into Xamarin.Forms:*
 1. Create or open your Xamarin.Forms project.
-2. Make sure the Xamarin.Forms nuget is at least version **3.4**
-3. Download the **Proinfocus.XFDesigner** nuget from the private nuget location: http://nugets.proinfocus.com
+2. Make sure the Xamarin.Forms nuget is at least version **3.0**
+3. Download the **Proinfocus.XFDesigner** nuget from the private nuget location: http://nuget.proinfocus.com
 4. Once done, build the project and add make necessary changes in your **App.xaml.cs** file as given in the example App.xaml.cs file in the repo.
 5. Build and run the project with or without debugging, and start making changes.
 6. The changes in the XAML file will be instantly rendered on the device or emulator, if everything is rightly setup.
