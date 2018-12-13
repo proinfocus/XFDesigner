@@ -11,7 +11,6 @@ Getting started with Live XAML designing tool for Xamarin.Forms
 6. Run the watcher command by typing **C:\ServerWatcher\WATCH**, it will start watching for files in that folder and its sub-folders.
 
 > **Note:**
-
 > Steps 1 to 3 is just one time for setup of the dependencies for the Server and Watcher tools.
 > Subsequently, you will be using only step 4 thru 6 everytime you need to use the XFDesigner in your Xamarin.Forms
 
