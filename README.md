@@ -10,6 +10,9 @@ Checkout the sample video on YouTube:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rk0aBlaLld8/0.jpg)](https://www.youtube.com/watch?v=Rk0aBlaLld8)
 
+Here is a screenshot of a Twitter UI designed live in one go and it took just 10 minutes (including finding the resources online)
+[![Live Design Screenshot of Twitter UI](https://raw.githubusercontent.com/proinfocus/XFDesigner/master/LiveDesignScreenShot.png)](https://raw.githubusercontent.com/proinfocus/XFDesigner/master/LiveDesignScreenShot.png)
+
 ## FAQs
 ### Time required to setup?
 You will be able to setup and start using it in under 5 minutes. 
