@@ -32,10 +32,11 @@ The XAML designs are persisted on your machine and rendered to your device tempo
 ### What to do when I am done with XAML designing?
 Once you are doing using the live XFDesigner, just restore your App.xaml.cs file to its actual state and remove the dependent nuget package ie., Proinfocus.XFDesigner. Now, you can buid your app and deploy it without any trace of the live designer or its dependencies.
 
----
+
 # License
 You are free to use it for your personal projects, educational purpose or any other non-commercial projects.
 However, if you are using it in commercial projects, you need to buy usage license by paying a nominal fee for lifetime use.
+
 
 # Contribution
 You can show your appreciation for this project by donating via
