@@ -6,6 +6,10 @@ For simplicity and separation of platform, the tools and descriptions are mainta
 ## What is XFDesigner?
 It is a live XAML design renderer on real devices/emulators of Android and iOS phones and tablets. You could instantly see the changes on one or all the setup devices/emulators, simultaneously.
 
+Checkout the sample video on YouTube:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rk0aBlaLld8/0.jpg)](https://www.youtube.com/watch?v=Rk0aBlaLld8)
+
 ## FAQs
 ### Time required to setup?
 You will be able to setup and start using it in under 5 minutes.
