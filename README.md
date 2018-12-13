@@ -4,7 +4,7 @@ Live XAML designing tool for Xamarin.Forms
 For simplicity and separation of platform, the tools and descriptions are maintained based on the Windows and Mac operating systems and the details of setup will be available via platform specific documents.
 
 ## What is XFDesigner?
-It is a live XAML design renderer on real devices/emulators of Android and iOS phones and tablets. You could instantly see the changes on one or all the setup devices/emulators, simultaneously.
+It is a live XAML design renderer on real devices/emulators of Android and iOS phones and tablets. You could instantly see the changes on one or all the setup devices/emulators, simultaneously. You need to install the nuget Proinfocus.XFDesigner only in your .NETStandard project. No extra setup or nugets are required in the Android, iOS, UWP projects.
 
 Checkout the sample video on YouTube:
 
@@ -12,6 +12,23 @@ Checkout the sample video on YouTube:
 
 Here is a screenshot of a Twitter UI designed live in one go and it took just 10 minutes (including finding the resources online)
 [![Live Design Screenshot of Twitter UI](https://raw.githubusercontent.com/proinfocus/XFDesigner/master/LiveDesignScreenShot.png)](https://raw.githubusercontent.com/proinfocus/XFDesigner/master/LiveDesignScreenShot.png)
+
+## Tips
+### Design-first
+1. Create all your potential empty ContentPage, ContentView, etc., with proper naming.
+2. Build the project and deploy it to the device with XFDesigner enabled and start designing.
+3. Keep all style resources on the same page for better design outcomes.
+4. Use XAML based BindingContext for ViewModels for truly MVVM pattern-based app development.
+5. Use temporary placeholders from Internet in case of Images, which can be replaced eventually once design is complete.
+
+### Code-first
+1. Create all your Models, ViewModels, Data Services, etc.,
+2. It allows you to think more towards separation of concerns better.
+3. Once the code is complete, designing will be easier and quicker.
+4. Having ViewModels ready will give you the ability to design and test the UI parallelly.
+5. Keep other resources like fonts and third-party libraries ready for build and deploy to start designing.
+
+
 
 ## FAQs
 ### Time required to setup?
