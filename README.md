@@ -6,9 +6,15 @@ For simplicity and separation of platform, the tools and descriptions are mainta
 ## What is XFDesigner?
 It is a live XAML design renderer on real devices/emulators of Android and iOS phones and tablets. You could instantly see the changes on one or all the setup devices/emulators, simultaneously. You need to install the nuget Proinfocus.XFDesigner only in your .NETStandard project. No extra setup or nugets are required in the Android, iOS, UWP projects.
 
+Checkout the Setup and getting started video on YouTube:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Or0lJIRD-Ok/0.jpg)](https://www.youtube.com/watch?v=Or0lJIRD-Ok)
+
+
 Checkout the sample video on YouTube:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rk0aBlaLld8/0.jpg)](https://www.youtube.com/watch?v=Rk0aBlaLld8)
+
 
 Here is a screenshot of a Twitter UI designed live in one go and it took just 10 minutes (including finding the resources online)
 [![Live Design Screenshot of Twitter UI](https://raw.githubusercontent.com/proinfocus/XFDesigner/master/LiveDesignScreenShot.png)](https://raw.githubusercontent.com/proinfocus/XFDesigner/master/LiveDesignScreenShot.png)
