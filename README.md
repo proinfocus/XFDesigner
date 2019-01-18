@@ -4,9 +4,9 @@ Live XAML designing tool for Xamarin.Forms
 For simplicity and separation of platform, the tools and descriptions are maintained based on the Windows and Mac operating systems and the details of setup will be available via platform specific documents.
 
 ## Update
-Upcoming release of the XFDesigner nuget (private) will work with Xamarin.Forms Shell and a more robust XAML design capabilities. 
+- Proinfocus XFDesigner 1.0.0 nuget released
+- Proinfocus XFDesigner 1.0.1-pre nuget released (requires Xamarin.Forms 3.5.0 pre in order to enable the Shell feature)
 
-Currently, if you update a custom control, it shows-up temporarily and when switched to the page that the control is being used, it doesn't show the changes. The upcoming release will resolve this issue among others. The release should be available before 25-Jan-2019. Please do check back here for more updates. Thank you. 
 
 ## What is XFDesigner?
 It is a live XAML design renderer on real devices/emulators of Android and iOS phones and tablets. You could instantly see the changes on one or all the setup devices/emulators, simultaneously. You need to install the nuget Proinfocus.XFDesigner only in your .NETStandard project. No extra setup or nugets are required in the Android, iOS, UWP projects.
@@ -19,6 +19,11 @@ Checkout the Setup and getting started video on YouTube:
 Checkout the sample video on YouTube:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rk0aBlaLld8/0.jpg)](https://www.youtube.com/watch?v=Rk0aBlaLld8)
+
+
+Video showing Proinfocus XFDesigner in action for Xamarin.Forms Shell feature on YouTube:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3W1Juwe86gA/0.jpg)](https://www.youtube.com/watch?v=3W1Juwe86gA)
 
 
 Here is a screenshot of a Twitter UI designed live in one go and it took just 10 minutes (including finding the resources online)
