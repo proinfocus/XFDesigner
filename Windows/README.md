@@ -29,7 +29,7 @@ public App()
 {
     InitializeComponent();
 
-    var fallBackPage = new MainPage();
+    var fallBackPage = new MainPage(); //If using Shell, it would be new AppShell();
 
     // If you want to design, uncomment the following 3 lines and make sure, the url is working.
 
